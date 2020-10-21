@@ -1,10 +1,7 @@
-### Hi devs 👋, I'm Ibad Ullah Shaikh - Full Stack Developer!
+### Hi devs👋, I'm Ibad Ullah Shaikh - Full Stack Developer!
 
-<br>
+#### Welcome to my Github profile. 😃
 
-### Welcome to my Github profile. 😃
-
-<br>
 Let me Introduce myself ⬇️
 
 ✔️ I am currently working as a MERN Stack Developer!
