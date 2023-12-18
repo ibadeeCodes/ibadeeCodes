@@ -6,7 +6,7 @@ Software Engineer
 
 * 🌍  I'm based in Karachi, Pakistan.
 * ✉️  You can contact me at [ibadeeshaikh@gmail.com](mailto:ibadeeshaikh@gmail.com)
-* 🚀  I'm currently working on [Dastgyr](http://dastgyr.com)
+* 🚀  I'm currently working at [Dastgyr](http://dastgyr.com)
 
 ### Skills
 
