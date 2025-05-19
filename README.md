@@ -16,6 +16,9 @@ I specialize in turning founders’ ideas into functional and scalable MVPs. Wit
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/-Zustand-000000?style=for-the-badge&logo=zotero&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Framer](https://img.shields.io/badge/-Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
+
 
 #### 🔧 Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -29,6 +32,7 @@ I specialize in turning founders’ ideas into functional and scalable MVPs. Wit
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 #### 🔐 Authentication
 ![Clerk](https://img.shields.io/badge/-Clerk-F44B47?style=for-the-badge&logo=clerk&logoColor=white)
@@ -40,22 +44,25 @@ I specialize in turning founders’ ideas into functional and scalable MVPs. Wit
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 #### 🤖 AI / Automation
+![n8n](https://img.shields.io/badge/n8n-A6E3E9?style=for-the-badge&logo=n8n&logoColor=red)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Make](https://img.shields.io/badge/-Make.com-5E1AD1?style=for-the-badge&logo=make&logoColor=white)
-![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 
 #### 🧰 DevOps / Infra
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/Render-3A6DF0?style=for-the-badge&logo=render&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-000000?style=for-the-badge&logo=neon&logoColor=white)
+![Dokploy](https://img.shields.io/badge/Dokploy-0A0A0A?style=for-the-badge)
+![Coolify](https://img.shields.io/badge/Coolify-161B22?style=for-the-badge)
+
 
 #### 🔌 CMS / Integration
 ![Sanity](https://img.shields.io/badge/-Sanity-FF2D20?style=for-the-badge&logo=sanity&logoColor=white)
 ![Payload CMS](https://img.shields.io/badge/-Payload%20CMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white)
-![Framer](https://img.shields.io/badge/-Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
 
 ---
 
