@@ -19,6 +19,7 @@ I specialize in turning founders’ ideas into functional and scalable MVPs. Wit
 ![Framer](https://img.shields.io/badge/-Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify_Headless-96BF48?style=for-the-badge&logo=shopify&logoColor=black)
 
 
 #### 🔧 Backend
