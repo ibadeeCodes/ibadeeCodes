@@ -50,6 +50,7 @@ I specialize in turning founders’ ideas into functional and scalable MVPs. Wit
 ![n8n](https://img.shields.io/badge/n8n-A6E3E9?style=for-the-badge&logo=n8n&logoColor=red)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Airtable](https://img.shields.io/badge/-Airtable-f72b5e?style=for-the-badge&logo=airtable&logoColor=white)
 
 #### 🧰 DevOps / Infra
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
