@@ -1,4 +1,4 @@
-# Co-Founder & Technical Lead @ ConfigLabs
+# Co-Founder & Software Engineer @ ConfigLabs
 
 I specialize in turning founders’ ideas into functional and scalable MVPs. With a strong command of modern web technologies, I focus on building clean, maintainable codebases that are easy to extend and optimize for growth. I’m deeply invested in helping early-stage startups bring their product vision to life, whether it's through iterative MVP development, ai workflow automation, or building internal tools to improve operational efficiency. I also lead a small in-house team, making sure we're aligned with the latest tech standards and development practices. My mission is to empower founders by delivering fast, stable, and user-ready solutions while staying agile and future-ready.
 
