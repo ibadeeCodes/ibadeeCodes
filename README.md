@@ -10,6 +10,7 @@ I am deeply passionate about technology, continuous learning, and staying ahead 
 
 I believe in building technology that is not only functional but also thoughtfully designed, secure, and future-ready.
 
+
 🔭 I’m currently working on backend systems using Node.js & NestJS.
 
 🌱 I’m currently exploring Event-Driven Systems, Kafka & Distributed Architectures.
@@ -17,3 +18,6 @@ I believe in building technology that is not only functional but also thoughtful
 🌱 I’m deepening my understanding of Scalable Backend Engineering & System Design.
 
 💬 Ask me about Backend Engineering, APIs, System Design & Software Development Practices.
+
+
+Reach out to me at: Email: ibadeeshaikh@gmail.com LinkedIn: https://www.linkedin.com/in/ibad-ullah-shaikh
