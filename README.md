@@ -1,6 +1,6 @@
 ## Hi, I'm Ibad Shaikh 👋
 
-I'm a backend-focused software engineer with around 5 years of experience, and I've been working professionally since my university days. At ConfigLabs, I help startups and businesses design, build, and scale reliable digital products.
+I'm a backend-focused software engineer with around 5 years of experience building SaaS products to internal business systems, and I've been working professionally since my university days. 
 
 I specialize in building secure, high-performance backend systems; designing high-performance APIs; and turning early-stage ideas into production-ready platforms. Alongside working with clients, I actively collaborate with founders to build MVPs, validate product ideas, and lay strong technical foundations for long-term growth.
 
